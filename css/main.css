@@ -67,3 +67,14 @@ a {
 /* .navbar-hide {
 
 } */
+
+p {
+    font-family: 'Josefin Sans';
+    text-weight: bold;
+    color: hsl(0, 0%, 41%);
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
